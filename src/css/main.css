@@ -72,4 +72,25 @@ button {
   line-height: normal;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+.hero {
+  position: relative;
+  margin-bottom: 115px;
+}
+.hero-box {
+  padding: 82px 0 0 99px;
+  width: 1110px;
+  height: 500px;
+  flex-shrink: 0;
+  background: #5267E0;
+}
+.hero-img-1 {
+  position: absolute;
+  z-index: 1;
+}
+.hero-img {
+  position: absolute;
+  left: 40%;
+  top: 0;
 }/*# sourceMappingURL=main.css.map */
