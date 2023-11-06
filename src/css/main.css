@@ -301,4 +301,30 @@ button {
   height: 1px;
   opacity: 0.15;
   background: #33323D;
+}
+
+.contact-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contact-title {
+  width: 380px;
+  color: #33323D;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: -0.357px;
+}
+.contact-btn {
+  padding: 17px 34px;
+  border: 1px solid #33323D;
+  color: #33323D;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }/*# sourceMappingURL=main.css.map */
