@@ -1,4 +1,6 @@
 .info {
+    margin-bottom: 64px;
+
     .info-box {
         display: flex;
         justify-content: space-between;
@@ -54,12 +56,20 @@
 .info-btn {
     color: #33323D;
     padding: 17px 34px;
+    margin-bottom: 48px;
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     letter-spacing: 2px;
     text-transform: uppercase;
+}
+
+.info-line-2 {
+    width: 350px;
+    height: 1px;
+    opacity: 0.15;
+    background: #33323D;
 }
 
 .info-right-box {
@@ -114,6 +124,7 @@
 .info-right-item-img {
     padding: 58px 0 0 51px;
 }
+
 .info-right-item-img-3 {
     padding: 0 51px 57px 0;
 }

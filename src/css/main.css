@@ -95,6 +95,9 @@ button {
   top: 0;
 }
 
+.info {
+  margin-bottom: 64px;
+}
 .info .info-box {
   display: flex;
   justify-content: space-between;
@@ -146,12 +149,20 @@ button {
 .info-btn {
   color: #33323D;
   padding: 17px 34px;
+  margin-bottom: 48px;
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+.info-line-2 {
+  width: 350px;
+  height: 1px;
+  opacity: 0.15;
+  background: #33323D;
 }
 
 .info-right-box {
@@ -209,4 +220,85 @@ button {
 
 .info-right-item-img-3 {
   padding: 0 51px 57px 0;
+}
+
+.services {
+  margin-bottom: 115px;
+}
+.services .services-box {
+  display: flex;
+}
+.services .services-title {
+  color: #33323D;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: -0.286px;
+}
+
+.services-text {
+  color: #33323D;
+  font-size: 16px;
+  margin-bottom: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  opacity: 0.5;
+}
+
+.services-line-1 {
+  width: 1110px;
+  height: 1px;
+  opacity: 0.15;
+  background: #33323D;
+}
+
+.services-box-2 {
+  margin-left: 32px;
+  margin-top: 35px;
+}
+
+.services-line {
+  width: 1px;
+  height: 130px;
+  opacity: 0.15;
+  margin: 0 auto;
+  background: #33323D;
+}
+
+.services-title-2 {
+  color: #33323D;
+  text-align: right;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: -0.286px;
+}
+
+.services-text-2 {
+  color: #33323D;
+  text-align: right;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  opacity: 0.5;
+}
+
+.services-box-3 {
+  margin-left: 32px;
+  margin-top: 35px;
+}
+
+.services-img {
+  margin-left: 32px;
+}
+
+.services-line-3 {
+  width: 1110px;
+  height: 1px;
+  opacity: 0.15;
+  background: #33323D;
 }/*# sourceMappingURL=main.css.map */
